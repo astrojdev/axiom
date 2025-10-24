@@ -16,6 +16,6 @@
 
 ## 🚀 getting started
 
-1. clone the repo  
+just clone the repo  
    ```bash
    git clone https://github.com/yourusername/axiom.git
